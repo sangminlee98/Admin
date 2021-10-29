@@ -1,2 +1,2 @@
 # Admin
-### page url : sangminlee98.github.io/Admin/admin.html
+### page url : https://sangminlee98.github.io/Admin/admin.html
